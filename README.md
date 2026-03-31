@@ -1,18 +1,18 @@
-#League of Legends Data Analysis
+# League of Legends Data Analysis
 
-#The Question: 
+# The Question: 
 - How will a player's winrate be effected by claiming the first dragon in the game?
 
-#Hypothesis: 
+# Hypothesis: 
 - I estimate on average, the team that claims the dragon first will have a 5-10% higher probable winrate than
 the teams that do not.
 
-#Equipment:
+# Equipment:
 - I will use CSV ranked data of 50,000 League of Legends games from "https://www.kaggle.com/datasets/datasnaek/league-of-legends?resource=download".
 - The Pandas library will be used with Python to conduct any Data Analysis.
 - Matplotlib to create graphs of the Data.
 
-#Method: 
+# Method: 
 - The data will be cleaned of all anomalies, anomalies are defined by games that end before an objective is claimed,
 data that is corrupted/N/A etc.
 - To make sure there is as little statistical bias as possible, I will remove Data where the Games last longer than 35 minutes,
@@ -21,7 +21,7 @@ treated as anomalies.
 - The data will be plot onto a bar chart to easily compare the win percentage of games when either team acquires, or does not acquire
 the first dragon of the game.
 
-#Conclusion:
+# Conclusion:
 - TBD
 After processing and analysing the data, the results show that my hypothesis was not only correct, but it surpasses my estimations
 completely, both teams gained a massive 22%~ increase in winrate. This means that getting the first dragon could be one of the biggest
