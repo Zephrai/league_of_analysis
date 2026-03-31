@@ -1,4 +1,4 @@
-# League of Legends Data Analysis
+## League of Legends Data Analysis
 
 # The Question: 
 - How will a player's winrate be effected by claiming the first dragon in the game?
