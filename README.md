@@ -8,7 +8,7 @@
 the teams that do not.
 
 ### Equipment:
-- I will use CSV ranked data of 50,000 League of Legends games from "https://www.kaggle.com/datasets/datasnaek/league-of-legends?resource=download".
+- I will use CSV ranked data of 50,000 League of Legends games from "https://www.kaggle.com/datasets/datasnaek/league-of-legends?resource=download" (2017).
 - The Pandas library will be used with Python to conduct any Data Analysis.
 - Matplotlib to create graphs of the Data.
 
