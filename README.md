@@ -23,6 +23,7 @@ the first dragon of the game.
 
 ### Conclusion:
 - TBD
+![league data](./league_data.png)
 After processing and analysing the data, the results show that my hypothesis was not only correct, but it surpasses my estimations
 completely, both teams gained a massive 22%~ increase in winrate. This means that getting the first dragon could be one of the biggest
 factors in deciding which team will win the game.
