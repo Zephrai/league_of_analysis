@@ -69,3 +69,9 @@ To see how much the game has changed since then I re-ran the analysis, modifying
 - It also means I can remove any games where neither team got a dragon
 
 ### New Conclusion
+![new analysis bar chart](./updated_data.png)
+
+The new data emphasises that the first dragon objective is still a huge factor. But what is even more interesting is that the game has shifted, oddly, Blue team has a landslide of a higher probability of winning the game than red team without a dragon, but with the first dragon red team actually beats blue team by a sizeable margin. This means that this season, more than the season 9 years ago red team must prioritise the first dragon more than ever.
+- Blue team has a even higher total winrate over red team this season, the previous 2.3% difference in average 9 years ago has become a wopping 53% - 47% = 6%!!!
+- Using the same standard deviation process as before using a margin of error of 95%, we can calculate that at 6% divided by a standard deviation of 0.494% (1.96 * sqrt(0.53 * 0.47 / 39307), blue teams winrate is over 12 standard deviations!
+- This means Blue team absolutely has an innate advantage of some kind that leads to winning more games
