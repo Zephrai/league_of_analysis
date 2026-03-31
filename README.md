@@ -57,3 +57,15 @@ The difference is 2.3% between them, 2.3% / 0.53% gives us how many standard dev
 
 This analysis proves beyond reasonable doubt that the Blue Team has a much higher probability of winning, regardless of gamestate.
 If you're on red side, getting the first dragon is the difference between being at a statistical loss and an outright win.
+
+# Updated Analysis
+The data I used previously was curated in 2017, 9 years ago. I have stumbled across fresh data from patch 25+, which is close to within 7 months ago from this source:
+"https://www.kaggle.com/datasets/californianbill/patch-25-14-lol-league-of-legends-ranked-games", (CalifornianBill, 2025).
+To see how much the game has changed since then I re-ran the analysis, modifying to accomodate the new data I have access to.
+
+### Core Changes
+- This new dataset has team0BaronKills, team1BaronKills as well as team0DragonFirst and team1DragonFirst
+- This means that I can now filter out games where total baron kills = 0 rather than only culling the games that were shorter than 2100 seconds. This increases the validity of the data tenfold
+- It also means I can remove any games where neither team got a dragon
+
+### New Conclusion
