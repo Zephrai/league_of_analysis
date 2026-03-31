@@ -3,7 +3,7 @@
 ### The Question: 
 - How will a player's winrate be effected by claiming the first dragon in the game?
 
-## Hypothesis: 
+### Hypothesis: 
 - I estimate on average, the team that claims the dragon first will have a 5-10% higher probable winrate than
 the teams that do not.
 
